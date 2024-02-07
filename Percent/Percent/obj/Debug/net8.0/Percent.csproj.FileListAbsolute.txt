@@ -1,0 +1,15 @@
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\bin\Debug\net8.0\Percent.exe
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\bin\Debug\net8.0\Percent.deps.json
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\bin\Debug\net8.0\Percent.runtimeconfig.json
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\bin\Debug\net8.0\Percent.dll
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\bin\Debug\net8.0\Percent.pdb
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.AssemblyInfoInputs.cache
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.AssemblyInfo.cs
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.csproj.CoreCompileInputs.cache
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.sourcelink.json
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.dll
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\refint\Percent.dll
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.pdb
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\Percent.genruntimeconfig.cache
+C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Percent\Percent\obj\Debug\net8.0\ref\Percent.dll
