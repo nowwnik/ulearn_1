@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Pluralize.dll" fullname="C:/Users/nik09/OneDrive/Документы/GitHub/ulearn_1/Pluralize/bin/Debug/net6.0/Pluralize.dll" testcasecount="1" result="Passed" start-time="2024-02-07T13:21:22.4267609Z" end-time="2024-02-07T13:21:22.4449963Z" duration="0.018182" total="1" passed="1" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="0" random-seed="502583739">
+  <command-line><![CDATA[C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Pluralize\bin\Debug\net6.0\Pluralize.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1002" name="Pluralize.dll" fullname="C:/Users/nik09/OneDrive/Документы/GitHub/ulearn_1/Pluralize/bin/Debug/net6.0/Pluralize.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2024-02-07T13:21:22.4267609Z" end-time="2024-02-07T13:21:22.4449963Z" duration="0.018182" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.13.3.0" clr-version="6.0.26" os-version="Microsoft Windows 10.0.19045" platform="Win32NT" cwd="C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Pluralize\bin\Debug\net6.0" machine-name="DESKTOP-1P27VDI" user="nik09" user-domain="DESKTOP-1P27VDI" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\nik09\OneDrive\Документы\GitHub\ulearn_1\Pluralize\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14824" />
+      <property name="_APPDOMAIN" value="Pluralize" />
+    </properties>
+    <test-suite type="TestSuite" id="1003" name="Pluralize" fullname="Pluralize" runstate="Runnable" testcasecount="1" result="Passed" start-time="2024-02-07T13:21:22.4337476Z" end-time="2024-02-07T13:21:22.4449804Z" duration="0.011233" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="1000" name="Pluralize_Should" fullname="Pluralize.Pluralize_Should" classname="Pluralize.Pluralize_Should" runstate="Runnable" testcasecount="1" result="Passed" start-time="2024-02-07T13:21:22.4356670Z" end-time="2024-02-07T13:21:22.4445767Z" duration="0.008910" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="1001" name="BeCorrect" fullname="Pluralize.Pluralize_Should.BeCorrect" methodname="BeCorrect" classname="Pluralize.Pluralize_Should" runstate="Runnable" seed="1365969103" result="Passed" start-time="2024-02-07T13:21:22.4377101Z" end-time="2024-02-07T13:21:22.4412800Z" duration="0.003671" asserts="0" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
