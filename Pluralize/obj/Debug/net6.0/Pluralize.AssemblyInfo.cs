@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pluralize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe673ef40075c6da4a702e0cf33ee0a70cc0d2f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b480fdf3c9f170a44ae2704c1d0094bf1bb95894")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pluralize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pluralize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
